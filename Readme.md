@@ -27,27 +27,27 @@
 <!-- Contact Information -->
 <h3 align="center">📫 How to reach me</h3>
 <p align="center">
-  <a href="mailto:robertnesterodhiambo@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/robert-nestar-odhiambo-094422237/">LinkedIn</a> |
-  <a href="https://x.com/RstudioStat">Twitter</a>
+  <a href="mailto:oderoemmanuel6@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com">LinkedIn</a> |
+  <a href="https://x.com/">Twitter</a>
 </p>
 
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 <a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=robertnesterodhiambo&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=aaaamateurManu&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=robertnesterodhiambo&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=aaaamateurManu&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
 </a>
 
-<img align="left" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=robertnesterodhiambo&theme=radical"/>
-<img align="left" height=200 src="https://github-profile-trophy.vercel.app/?username=robertnesterodhiambo&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+<img align="left" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=aaaamateurManu&theme=radical"/>
+<img align="left" height=200 src="https://github-profile-trophy.vercel.app/?username=aaaamateurManu&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 
 <a href="#"><img src="contributions.svg"></a>
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_robertnesterodhiambo/count.svg" />
+  <img src="https://profile-counter.glitch.me/_aaaamateurManu/count.svg" />
 </p>
 
