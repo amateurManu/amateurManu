@@ -1,7 +1,7 @@
 <!-- Introduction/About Me -->
-<h2 align="center">Hi there, I'm Robert Nester Odhiambo 👋</h2>
+<h2 align="center">Hi there, I'm Emmanuel Odero 👋</h2>
 <p align="center">
-  I'm a passionate developer from Kenya, specializing in web development, data science, and machine learning.
+  I'm a passionate developer from Kenya, specializing in web development and system devops.
 </p>
 
 <!-- Skills and Technologies -->
@@ -28,8 +28,8 @@
 <h3 align="center">📫 How to reach me</h3>
 <p align="center">
   <a href="mailto:oderoemmanuel6@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com">LinkedIn</a> |
-  <a href="https://x.com/">Twitter</a>
+  <a href="https://www.linkedin.com/in/emmanuel-odero">LinkedIn</a> |
+  <a href="https://x.com/emmanuerodero">Twitter</a>
 </p>
 
 <!-- GitHub Stats -->
